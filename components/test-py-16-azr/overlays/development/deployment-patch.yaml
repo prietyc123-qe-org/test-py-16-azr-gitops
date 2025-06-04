@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-rsbs9.rsbs9.sandbox2247.opentlc.com/tssc/tssc-test:azure-de0d89ac6ba47cbed3f7a32d69a1506341ae20a3
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-rsbs9.rsbs9.sandbox2247.opentlc.com/tssc/tssc-test:azure-f48f131465a085717baf33facdbada17dc9d8953
           name: container-image
