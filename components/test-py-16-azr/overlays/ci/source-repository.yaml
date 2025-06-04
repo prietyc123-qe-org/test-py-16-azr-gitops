@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: test-py-16-azr-repository
+spec:
+  url: https://github.com/prietyc123-qe-org/test-py-16-azr
